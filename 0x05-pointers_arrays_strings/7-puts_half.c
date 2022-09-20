@@ -28,5 +28,5 @@ for ( ; n < len ; n++)
 {
 putchar(str[n]);
 }
-_putchar('\n');
+putchar('\n');
 }
