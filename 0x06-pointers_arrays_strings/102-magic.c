@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+/**
+ * add number – add numbers chars
 int main(void)
 {
 int n;
