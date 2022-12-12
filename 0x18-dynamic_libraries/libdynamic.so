@@ -1,0 +1,2 @@
+ls -la lib*
+nm -D libdynamic.so 
