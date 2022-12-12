@@ -1,2 +1,2 @@
 ls -la lib*
-nm -D libdynamic.so 
+nm -D libdynamic.so
